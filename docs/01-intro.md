@@ -35,3 +35,11 @@
 - Code along as you go, practice
 - Debug errors, explore solutions, see code attachments, compare solutions
 - Forum for help, also try to help others
+
+# Helpful Extensions for VSCode:
+
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+
+- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
