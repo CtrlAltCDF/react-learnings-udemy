@@ -86,3 +86,7 @@ export default SimpleComponent;
 const username = "Callum";
 <SimpleComponent name={username}></SimpleComponent>;
 ```
+
+## Splitting Components
+
+Every component should be focussed on one core task and they combine to create a bigger more complex user interface, each component should be small and manageable in order to keep a separation of concerns and keep you components maintainable and understandable.
