@@ -3,7 +3,7 @@
 - use logic/state to determine a style
 - can either use inline styles with truantry operators or classes that get added through string manipulation
 
-# Styles Components
+# Styled Components (elements)
 
 - external package that allows you to scope styles to a component
 - all .css files that get imported to a component are actually global
