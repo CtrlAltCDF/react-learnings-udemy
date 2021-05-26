@@ -43,3 +43,5 @@
 - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+- [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
